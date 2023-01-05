@@ -1,0 +1,15 @@
+{
+  "name": "6班 语文课前演讲集合 (Demo)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YHXPie/c6-demo/tree/pg3",
+  "author": "HX",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {}
+}
