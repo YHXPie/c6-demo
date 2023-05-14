@@ -1,8 +1,8 @@
 # Sever Commands
 **目前的服务器列表：**
 
-1. 服务提供商：**Vultr**：149.28.194.64，**地点**：硅谷 _Silicon Valley_
-2. N/A
+1. 服务提供商：**Vultr**：149.28.194.64，**地点**：美国，加利福尼亚州，硅谷 _Silicon Valley_
+2. 服务提供商：**RackNerd**：23.94.94.166，**地点**：美国，佐治亚州，亚特兰大 _Atlanta_
 ## V2ray
 > 原网站：https://tr3.freeair888.club/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/
 
