@@ -1,8 +1,0 @@
-* [首页](/README.md)
-* [猪肉类](/猪肉类/README.md)
-* [鸡肉类](/鸡肉类/README.md)
-* [鸡蛋类](/鸡蛋类/README.md)
-* [零食类](/零食类/README.md)
-* [预制菜类](/预制菜类/README.md)
-* [现代食品类](/现代食品类/README.md)
-* [咖啡类](/咖啡类/README.md)
